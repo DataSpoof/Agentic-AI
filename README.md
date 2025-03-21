@@ -2,4 +2,4 @@
 
 ## End to End LLM Application using AWS
 
-![End-to-End LLM Architecture](images/Architecture.png)
+![End-to-End LLM Architecture](End-to-End LLM Architecture/Architecture.png)
